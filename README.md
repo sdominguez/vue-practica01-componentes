@@ -1,5 +1,7 @@
 # vue-practica1
 
+Project with VueJS-2x includes components in HomeView
+
 ## Project setup
 ```
 npm install
